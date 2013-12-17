@@ -16,38 +16,40 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>mauve</item>
-        <item>winter_sunset</item>
-        <item>barnsley_silhouette</item>
-        <item>dystopia</item>
-        <item>theicestorm</item>
-        <item>tubetangle</item>
-        <item>acidwashedcid</item>
+        <item>android_blossoms</item>
         <item>blueice_modcircle</item>
-        <item>frostmaple</item>
-        <item>maplebokeh</item>
-        <item>maplesunblaze</item>
-        <item>sunsetgrass</item>
-        <item>light_bursting_out</item>
-        <item>bladesplusdroplets</item>
+        <item>city_lights</item>
+        <item>colored_smoke</item>
+        <item>cosmic_galaxy</item>
+        <item>daybreak</item>
         <item>decay</item>
+        <item>galaxy_swirl</item>
+        <item>honeychrome</item>
+        <item>maple</item>
+        <item>rainbow_from_below</item>
+        <item>seashore</item>
+        <item>street_lights</item>
+        <item>street_lights_2</item>
+        <item>winter_road</item>
+        <item>winter_sunset</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Mauve - Matthew Hanley</item>
-        <item>Winter Sunset - Matthew Hanley</item>
-        <item>Barnsley Silhouette - Matthew Hanley</item>
-        <item>Dystopia - Matthew Hanley</item>
-        <item>The Ice Storm - Henry Mason</item>
-        <item>Tangled Up Tubes - Henry Mason</item>
-        <item>Acid-washed Cid - Noelle-Lynn Peregrino</item>
-        <item>Blue Ice w. ModCircle - Henry Mason</item>
-        <item>Frost Maple - Henry Mason</item>
-        <item>Maple Bokeh - Henry Mason</item>
-        <item>Sunblaze Maple - Henry Mason</item>
-        <item>Sunset Grass - Henry Mason</item>
-        <item>Light Bursting Out - Matthew Hanley</item>
-        <item>Blades of Glory - Henry Mason</item>
-        <item>Decay - Henry Mason</item>
+        <item>Android Blossom</item>
+        <item>Blue Ice ModCircle</item>
+        <item>City Lights</item>
+        <item>Colored Smoke</item>
+        <item>Cosmic Galaxy</item>
+        <item>Daybreak</item>
+        <item>Decay</item>
+        <item>Galaxy Swirl</item>
+        <item>Honeychrome</item>
+        <item>Maple</item>
+        <item>Rainbow From Below</item>
+        <item>Seashore</item>
+        <item>Street Lights</item>
+        <item>Street Lights 2</item>
+        <item>Winter Road</item>
+        <item>Winter Sunset</item>
     </string-array>
 </resources>
